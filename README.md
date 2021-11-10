@@ -11,10 +11,10 @@ Graphs are naturally used to describe the structures of various real-world syste
 ## Cite
 
 ```
-@article{wang2021tsgn,
-  title={TSGN: Transaction Subgraph Networks for Identifying Ethereum Phishing Accounts},
-  author={Wang, Jinhuan and Chen, Pengtao and Yu, Shanqing and Xuan, Qi},
-  journal={arXiv preprint arXiv:2104.08767},
+@article{wang2021sampling,
+  title={Sampling Subgraph Network with Application to Graph Classification},
+  author={Wang, Jinhuan and Chen, Pengtao and Ma, Bin and Zhou, Jiajun and Ruan, Zhongyuan and Chen, Guanrong and Xuan, Qi},
+  journal={IEEE Transactions on Network Science and Engineering},
   year={2021}
 }
 ```
